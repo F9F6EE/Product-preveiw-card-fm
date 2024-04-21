@@ -25,12 +25,11 @@ Users should be able to:
 ### Screenshot
 
 ![](./screenshot.png)
-![](./active.png)
-![](./screenshot-mobile.png)
+
 
 ### Links
 
--  [Solution URL]((https://www.frontendmentor.io/solutions/productpreveiwcard-rq5mXL1abI))
+-  [Solution URL](https://www.frontendmentor.io/solutions/productpreveiwcard-rq5mXL1abI)
 -  [Live Site URL](https://f9f6ee.github.io/Product-preveiw-card-fm/)
 
 ### Built with
